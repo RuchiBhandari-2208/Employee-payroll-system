@@ -1,4 +1,4 @@
-from EmployeepayrollSystem import  EmployeepayrollSystem
+from Employeepayrollsystem import  Employeepayrollsystem
 
 eps=Employeepayrollsystem()
 
